@@ -1,4 +1,4 @@
-# EX NO :1  Cloud-account-set-up-and-services
+# Ex - 1 CLOUD ACCOUNT SETUP AND SERVICES OVERVIEW IN AWS
 ~~~
 Name : MOHANRAM GUNASEKAR
 
